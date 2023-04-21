@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardopozzan" alt="leonardopozzan" /></a> </p>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Angular e MongoDB**
 
 - 📫 How to reach me **leonardo.lp.pozzan@gmail.com**
 
